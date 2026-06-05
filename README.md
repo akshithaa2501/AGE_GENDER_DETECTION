@@ -25,6 +25,7 @@ Install dependencies
 pip install -r requirements.txt
 Run the Streamlit app
 streamlit run app.py
+
 📌 Model & Optimization
 This is a basic model, and there’s room for optimization. You can:
 
